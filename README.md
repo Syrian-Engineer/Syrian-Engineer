@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syrian-Engineer
 - 👀 I’m interested in ...sports
-- 🌱 I’m currently learning ...TailWind css
+- 🌱 I’m currently learning ...Spring FrameWork
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... koussaikareem@gmail.com
 - 😄 Pronouns: ...he
